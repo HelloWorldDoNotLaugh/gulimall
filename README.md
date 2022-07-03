@@ -1,2 +1,2 @@
 # gulimall
-谷粒商城 ___Learning
+谷粒商城 (Learning)
